@@ -20,6 +20,7 @@ Główne funkcje i zastosowania robota Piwuś:
 
 	Eventy i imprezy sponsorowane: Robot "Piwuś" to także idealne narzędzie na eventy, festiwale i specjalne imprezy sponsorowane przez marki piwa. Personalizowany robot może być kluczowym elementem marketingowym podczas takich wydarzeń, przyciągając uwagę tłumów i zachęcając do degustacji sponsorowanego piwa.
 
+
 Działania konieczne do realizacji projektu:
 	1. Badania i Koncept
 		Analiza rynku: Zbadanie potrzeb klientów barów oraz właścicieli lokali.
@@ -61,3 +62,19 @@ Dane wejściowe:
 		- rodzaj wybranego piwa
 		- rodzaj wybranej płatności w terminalu
 	
+
+Identyfikacja odbiorców:
+- Właściciele pubów/ barów.
+Chcąc zredukować koszt oraz problemy związane z zatrudnieniem większej liczby pracowników. 
+Właściciele lokalów sprzedających produkty alkoholowe mogą zakupić nasz produkt. 
+Przyciągnie to również klientów, którzy będą chcieli zobaczyć robota w akcji. 
+Nasz produkt umożliwi również wydanie większej liczby piw w krótszym czasie, co bezpośrednio przełoży się na liczbę obsłużonych klientów oraz zyski danej placówki.
+
+Marketing: 
+Na samym początku warto zaznaczyć, iż wszystkie działania marketingowe podejmowana przez firmę powinny odbywać się zgodnie z Ustawą o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi. 
+
+W celu przygotowania naszego produktu na rynek, nasza firma może wysłać pracownika by ten przedstawił naszą ofertę lokalnym pubom. 
+Można również przydzielić przedstawicieli którzy będą jeździć na targi technologiczne w celu pokazania produktu szerszej publice oraz uzyskania inwestorów.
+Warto także reklamować się na różnego rodzaju festiwalach muzycznych czy koncertach, tym sposobem zaciekawimy samych konsumentów piwa. Chcąc zobaczyć nasz produkt, ci udadzą się do pobliskiego lokalu współpracującego z naszą firmą.
+Firma na dodatek może wykupywać bloki reklamowe w telewizji na kanałach, których głównymi odbiorcami są osoby pełnoletnie.
+
