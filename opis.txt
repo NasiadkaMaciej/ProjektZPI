@@ -1,0 +1,2 @@
+Nazwa projektu: Piwuś
+"Piwuś" to autonomiczny robot pełniący funkcję ułatwienia pracy barmana w miejscach serwujących alkohol, takich jak bar, pub czy klub. Jego praca charakteryzuje się przemieszaniem się po lokalu obsługując klientów poprzez nalewanie napoi alkoholowych (przeważnie różnego rodzaju piw) do szklanek/kufli.
