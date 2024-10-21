@@ -43,5 +43,12 @@ Działania konieczne do realizacji projektu:
 
 Dane wyjściowe:
 	Interaktywny ekran robota pełni dwie głownie funkcje:
-	w momentach gdy Piwuś nie obsluguje klientów ekran wyświetla przyjazne i zabawne obrazy, takie jak słodkie buźki, które zachęcaja do interakcji z robotem. Jest to pomocne w tworzeniu przyjemnej atmosfery lokalu. Ekran wyświetla też aktualne promocje takie jak happy hour, zniżki dla grup czy limitowane edycje piw dzięki czemu na bieżaco informuje klientów o specjalnych ofertach.
-	Podczas interakcji z klientami, po dotknięciu ekranu,  Piwuś wyświetla dostępny wybór piw. Po dokonaniu wyboru preferowanego browaru robot informuje klienta pod ktory kran ma podstawić kubek. Robot nalewa wówczas piwo, a jego koszt jest automatycznie dodawany do rachunku klienta, przypisanego do kodu QR pod kubkiem. Piwuś oferuje również możliwość płatności kartą bądź blikiem, opcja wyboru zapłaty dostępna jest na ekranie po nalaniu piwa. Po wybraniu robot wyświetla prośbę o przyłożenie karty do terminala, a po zapłacie dziękuje za skorzystanie z jego usług.
+	
+	w momentach gdy Piwuś nie obsluguje klientów ekran wyświetla przyjazne i zabawne obrazy, takie jak słodkie buźki, które zachęcaja do interakcji z robotem. 
+	Jest to pomocne w tworzeniu przyjemnej atmosfery lokalu. Ekran wyświetla też aktualne promocje takie jak happy hour, zniżki dla grup czy limitowane edycje piw
+	dzięki czemu na bieżaco informuje klientów o specjalnych ofertach.
+	
+	Podczas interakcji z klientami, po dotknięciu ekranu,  Piwuś wyświetla dostępny wybór piw. Po dokonaniu wyboru preferowanego browaru robot informuje klienta
+	pod ktory kran ma podstawić kubek. Robot nalewa wówczas piwo, a jego koszt jest automatycznie dodawany do rachunku klienta, przypisanego do kodu QR pod kubkiem. 
+	Piwuś oferuje również możliwość płatności kartą bądź blikiem, opcja wyboru zapłaty dostępna jest na ekranie po nalaniu piwa. 
+	Po wybraniu robot wyświetla prośbę o przyłożenie karty do terminala, a po zapłacie dziękuje za skorzystanie z jego usług.
