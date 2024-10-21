@@ -4,17 +4,17 @@ Główne funkcje i zastosowania robota Piwuś:
 
 	Angażowanie klientów: Zabawne i przyjazne wyrazy twarzy robota sprawiają, że "Piwuś" staje się lokalną atrakcją. Klienci, będą chętnie wchodzić w interakcje z robotem, co zwiększy zaangażowanie i pozytywne wrażenia z wizyty.
 
-    Automatyczne serwowanie napojów: "Piwuś" może nalewać i serwować piwo wprost do szklanki klienta, zapewniając idealnie wyważoną pianę i odpowiednią temperaturę napoju. To znakomite rozwiązanie, które zmniejsza obciążenie dla personelu, zwłaszcza w godzinach szczytu.
+	Automatyczne serwowanie napojów: "Piwuś" może nalewać i serwować piwo wprost do szklanki klienta, zapewniając idealnie wyważoną pianę i odpowiednią temperaturę napoju. To znakomite rozwiązanie, które zmniejsza obciążenie dla personelu, zwłaszcza w godzinach szczytu.
 
-    Nawigacja w tłumie: Wyposażony w zaawansowane czujniki i systemy nawigacyjne, robot z łatwością porusza się wśród ludzi, bez ryzyka kolizji. Potrafi dostosować swoją trasę, omijając klientów i stoły, by dostarczyć piwo bez żadnych opóźnień.
+	Nawigacja w tłumie: Wyposażony w zaawansowane czujniki i systemy nawigacyjne, robot z łatwością porusza się wśród ludzi, bez ryzyka kolizji. Potrafi dostosować swoją trasę, omijając klientów i stoły, by dostarczyć piwo bez żadnych opóźnień.
 
-    Optymalizacja pracy personelu: "Piwuś" może odciążyć barmanów i kelnerów, pozwalając im skupić się na innych zadaniach, takich jak przygotowywanie koktajli, obsługa klientów czy dbanie o porządek w lokalu. Dzięki temu efektywność pracy całego zespołu znacznie wzrasta.
+	Optymalizacja pracy personelu: "Piwuś" może odciążyć barmanów i kelnerów, pozwalając im skupić się na innych zadaniach, takich jak przygotowywanie koktajli, obsługa klientów czy dbanie o porządek w lokalu. Dzięki temu efektywność pracy całego zespołu znacznie wzrasta.
 
-    Zarządzanie zasobami: Robot wyposażony jest w funkcje monitorowania poziomu piwa w zbiornikach, poziom naładowania akumulatora i samodzielne zadbanie o ich uzupełnianie we własnej stacji dokującej.
+	Zarządzanie zasobami: Robot wyposażony jest w funkcje monitorowania poziomu piwa w zbiornikach, poziom naładowania akumulatora i samodzielne zadbanie o ich uzupełnianie we własnej stacji dokującej.
 
-    Wzrost atrakcyjności lokalu: Wprowadzenie robota "Piwuś" do lokalu to doskonała okazja do przyciągnięcia nowych klientów, szczególnie tych, którzy szukają nowinek technologicznych. Taka innowacja z pewnością wzbudzi zainteresowanie i może przyczynić się do zwiększenia liczby odwiedzających.
+	Wzrost atrakcyjności lokalu: Wprowadzenie robota "Piwuś" do lokalu to doskonała okazja do przyciągnięcia nowych klientów, szczególnie tych, którzy szukają nowinek technologicznych. Taka innowacja z pewnością wzbudzi zainteresowanie i może przyczynić się do zwiększenia liczby odwiedzających.
 
-    Integracja z systemami płatności: "Piwuś" może również zintegrować się z systemami płatności bezgotówkowych, umożliwiając klientom płacenie za piwo bezpośrednio przy dostawie napoju.
+	Integracja z systemami płatności: "Piwuś" może również zintegrować się z systemami płatności bezgotówkowych, umożliwiając klientom płacenie za piwo bezpośrednio przy dostawie napoju.
 
 	Dostosowanie wizualne robota: Producent piwa może spersonalizować wygląd "Piwusia" w zależności od swoich potrzeb marketingowych. Możliwość oklejenia obudowy robota w barwy danej marki, dodanie logotypu czy nawet dopasowanie kolorystyki do identyfikacji wizualnej piwa sprawia, że robot staje się widocznym i atrakcyjnym nośnikiem reklamy.
 
@@ -22,8 +22,8 @@ Główne funkcje i zastosowania robota Piwuś:
 
 Działania konieczne do realizacji projektu:
 	1. Badania i Koncept
-    	Analiza rynku: Zbadanie potrzeb klientów barów oraz właścicieli lokali.
-    	Określenie funkcji: Zdefiniowanie kluczowych funkcji robota, takich jak nalewanie piwa, nawigacja, interaktywność i personalizacja.
+		Analiza rynku: Zbadanie potrzeb klientów barów oraz właścicieli lokali.
+		Określenie funkcji: Zdefiniowanie kluczowych funkcji robota, takich jak nalewanie piwa, nawigacja, interaktywność i personalizacja.
 
 	2. Projektowanie i Prototypowanie
 		Stworzenie prototypu: Zbudowanie pierwszego modelu robota z wbudowanym ekranem i systemem nalewania piwa.
