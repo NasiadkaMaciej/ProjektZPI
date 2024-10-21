@@ -78,3 +78,79 @@ Można również przydzielić przedstawicieli którzy będą jeździć na targi 
 Warto także reklamować się na różnego rodzaju festiwalach muzycznych czy koncertach, tym sposobem zaciekawimy samych konsumentów piwa. Chcąc zobaczyć nasz produkt, ci udadzą się do pobliskiego lokalu współpracującego z naszą firmą.
 Firma na dodatek może wykupywać bloki reklamowe w telewizji na kanałach, których głównymi odbiorcami są osoby pełnoletnie.
 
+Finansowanie: 
+
+1. SYSTEM MOBILNY I NAWIGACYJNY DO PORUSZANIA SIE PO LOKALU suma (koszt pesymistyczny):  15 500 
+Silnik elektryczny - koszt od 500 do 1500 zł wraz z kołami. 
+
+Czujniki - czujniki do nawigacji oraz kamera oparta na wizyjnym rozpoznawaniu jednocześnie przesyłająca obraz na żywo do pracownika za barem - koszt kamery wraz z oprogramowaniem wizyjnego rozpoznawania 1500 – 6000; koszt czujników Lidar (wykrywanie otoczenia za pomocą światła laserowego) 2000 – 5000 zł 
+
+System nawigacyjny - moduł odpowiadający za poruszanie się robota po terenie lokalu widełki od 1000 do 3000 zł 
+
+2. SYSTEM NALEWANIA PIWA suma: 6600 
+
+Zbiorniki na piwo - pojemność zbiorników z możliwością dostosowania w zależności od lokalu - większe/częściej uczęszczane lokale potrzebowałyby większych zbiorników; standardowa przewidywana przez nas pojemność 10 litrów starczyłaby na napełnienie czternastu 0.5 litrowych szklanek; koszt zbiorników wykonanych ze stali nierdzewnej - 300-600 zł za sztukę (przy 3 sztukach 900-1800) 
+
+Automatyczne krany do piwa sterowane komputerowo - 500-1000 zł za sztukę (przy 3 sztukach 1500-3000) 
+
+Elektrozawory kontrolujące przepływ piwa - 200-400 zł za sztukę (przy 3 zaworach 600 – 1200 zł ) 
+
+3. INTERFEJS UŻYTKOWNIKA I OPROGRAMOWANIE suma: 11 800  
+
+Ekran dotykowy – 15 calowy ekran – koszt 600 – 1500 zł  
+
+Oprogramowanie zarządzające robotem, wyborem piwa, skanowaniem kodów QR - koszt od 5000 zł w górę 
+
+Skaner kodów QR - od 100 do 300 zł 
+
+Komputer sterujący funkcjami robota, silnikami, systemem nalewania, przetwarzaniem danych z czujników i skanera, interfejs - koszt 1500-3000 zł 
+
+Terminal – możliwość płatności kartą, blikiem – koszt od 500 – 2000 zł 
+
+ 
+
+4.ZASILANIE suma: 1800 
+
+Zasilanie - 2 zamiennie używane baterie, gdy robot korzysta z jednej druga ładuje się w stacji, minimalizując czas przebywania robota przy stacji ładowania; baterie litowo-polimerowe zapewniające od 20 do 30 minut pracy o pojemności 4000 mAh - koszt sztuki od 300-600 zł czyli 600-1200 zł  
+
+Ładowarka szybkiego ładowania aby bateria mogła ładować się w ciągu 30 minut - ok 300 zł 
+
+Mikrokontroler baterii - monitoruje stan baterii (gdy bateria osiąga 10% stanu naładowania robot wraca do stacji) - 100 - 300 zł 
+
+5.STACJA DOKUJACA suma: 6100  
+
+Stacja ładowania - z funkcją wymiany baterii (mechanizm magnetyczny lub zrobotyzowane ramię): 1500 - 3000 zł. TO TEZ DO UZGODNIENIA JAKCOS DALAM 
+
+System napełniania - stacja wyposażona w mechanizm, który umożliwia napełnianie zbiorników z piwem. Obejmuje: 
+
+Pompę piwa: Do transportu piwa ze zbiorników stacji do robotów - koszt: 300 - 800 zł. 
+
+Zbiorniki na piwo: Można rozważyć dodanie zbiorników do stacji - koszt: 300 - 600 zł za zbiornik (przy 3 zbiornikach: 900 - 1800 zł). 
+
+System filtracji i regulacji ciśnienia: koszt: 200 - 500 zł. 
+
+ 
+
+ 6.KONSTRUKCJA suma: 8600 zł 
+
+Obudowa -  kolorowe tworzywo sztuczne, odporna na płyny i wstrząsy, oryginalny design - koszt 4300 – 8600 zł 
+
+ (zakładając, że wielkość ma podobną do Kerfusia, to około 384*468*1123mm) 
+
+Cena Kerfusia (mniejwięcej): 64500 zł  
+
+całokształt projektu powinien wynosić około podanej kwoty lub więcej (zakładając, że Kerfuś nie jest aż tak zaawansowany jak Piwuś)  
+
+ 
+
+ILE BĘDZIEMY MUSIELI SAMI ZAINWESTOWAĆ? 
+
+Koszt produkcji jednego robota wynosi 50 400 zł. Naszym planem jest pokrycie 50% tych kosztów, co oznacza, że: 50% kosztów = 0,5 × 50 400 zł = 25 200 zł 
+
+Zatem będziemy musieli sami zainwestować 25 200 zł, a pozostałe 25 200 zł zamierzamy pozyskać od inwestorów. W tym celu planujemy: 
+
+ 
+
+Współpracę z wybranymi markami piwa - oferujemy markom piwa personalizację wyglądu robota, co może obejmować umieszczenie ich logo i kolorystyki. To nie tylko zwiększy ich zaangażowanie w projekt, ale także pomoże w zdobyciu finansowania na produkcję robota. 
+
+Możliwość skorzystania z dotacji i funduszy unijnych wspierających innowacyjne projekty technologiczne takie jak: 
