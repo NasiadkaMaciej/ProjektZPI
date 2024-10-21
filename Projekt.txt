@@ -52,3 +52,12 @@ Dane wyjściowe:
 	pod ktory kran ma podstawić kubek. Robot nalewa wówczas piwo, a jego koszt jest automatycznie dodawany do rachunku klienta, przypisanego do kodu QR pod kubkiem. 
 	Piwuś oferuje również możliwość płatności kartą bądź blikiem, opcja wyboru zapłaty dostępna jest na ekranie po nalaniu piwa. 
 	Po wybraniu robot wyświetla prośbę o przyłożenie karty do terminala, a po zapłacie dziękuje za skorzystanie z jego usług.
+
+Dane wejściowe:
+	Dane początkowe potrzebne do działania Piwusia :
+		- mapa lokalu a także lokalizacja stolików i stacji dokującej aby Piwuś mógł się poruszać po lokalu i podjeżdzać do stolików
+		- rodzaje piwa które mają być wyswietlane na ekranie do wyboru klienta
+	Dane od klienta :
+		- rodzaj wybranego piwa
+		- rodzaj wybranej płatności w terminalu
+	
