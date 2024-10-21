@@ -1,0 +1,42 @@
+Główne funkcje i zastosowania robota Piwuś:
+
+	Interaktywny ekran z mimiką: Ekran robota wyświetla różne miny, które oddają emocje, takie jak radość, zdziwienie czy zadowolenie. Dzięki temu "Piwuś" staje się bardziej sympatyczny i przyjazny dla gości. Jego mimika zmienia się w zależności od sytuacji – na przykład uśmiecha się, gdy dostarcza piwo, a z wyrazem skupienia pyta o rodzaj napoju.
+
+	Angażowanie klientów: Zabawne i przyjazne wyrazy twarzy robota sprawiają, że "Piwuś" staje się lokalną atrakcją. Klienci, będą chętnie wchodzić w interakcje z robotem, co zwiększy zaangażowanie i pozytywne wrażenia z wizyty.
+
+    Automatyczne serwowanie napojów: "Piwuś" może nalewać i serwować piwo wprost do szklanki klienta, zapewniając idealnie wyważoną pianę i odpowiednią temperaturę napoju. To znakomite rozwiązanie, które zmniejsza obciążenie dla personelu, zwłaszcza w godzinach szczytu.
+
+    Nawigacja w tłumie: Wyposażony w zaawansowane czujniki i systemy nawigacyjne, robot z łatwością porusza się wśród ludzi, bez ryzyka kolizji. Potrafi dostosować swoją trasę, omijając klientów i stoły, by dostarczyć piwo bez żadnych opóźnień.
+
+    Optymalizacja pracy personelu: "Piwuś" może odciążyć barmanów i kelnerów, pozwalając im skupić się na innych zadaniach, takich jak przygotowywanie koktajli, obsługa klientów czy dbanie o porządek w lokalu. Dzięki temu efektywność pracy całego zespołu znacznie wzrasta.
+
+    Zarządzanie zasobami: Robot wyposażony jest w funkcje monitorowania poziomu piwa w zbiornikach, poziom naładowania akumulatora i samodzielne zadbanie o ich uzupełnianie we własnej stacji dokującej.
+
+    Wzrost atrakcyjności lokalu: Wprowadzenie robota "Piwuś" do lokalu to doskonała okazja do przyciągnięcia nowych klientów, szczególnie tych, którzy szukają nowinek technologicznych. Taka innowacja z pewnością wzbudzi zainteresowanie i może przyczynić się do zwiększenia liczby odwiedzających.
+
+    Integracja z systemami płatności: "Piwuś" może również zintegrować się z systemami płatności bezgotówkowych, umożliwiając klientom płacenie za piwo bezpośrednio przy dostawie napoju.
+
+	Dostosowanie wizualne robota: Producent piwa może spersonalizować wygląd "Piwusia" w zależności od swoich potrzeb marketingowych. Możliwość oklejenia obudowy robota w barwy danej marki, dodanie logotypu czy nawet dopasowanie kolorystyki do identyfikacji wizualnej piwa sprawia, że robot staje się widocznym i atrakcyjnym nośnikiem reklamy.
+
+	Eventy i imprezy sponsorowane: Robot "Piwuś" to także idealne narzędzie na eventy, festiwale i specjalne imprezy sponsorowane przez marki piwa. Personalizowany robot może być kluczowym elementem marketingowym podczas takich wydarzeń, przyciągając uwagę tłumów i zachęcając do degustacji sponsorowanego piwa.
+
+Działania konieczne do realizacji projektu:
+	1. Badania i Koncept
+    	Analiza rynku: Zbadanie potrzeb klientów barów oraz właścicieli lokali.
+    	Określenie funkcji: Zdefiniowanie kluczowych funkcji robota, takich jak nalewanie piwa, nawigacja, interaktywność i personalizacja.
+
+	2. Projektowanie i Prototypowanie
+		Stworzenie prototypu: Zbudowanie pierwszego modelu robota z wbudowanym ekranem i systemem nalewania piwa.
+		Testy prototypu: Testowanie robota w barach, ocena działania i nawigacji.
+
+	3. Optymalizacja i Finalizacja
+		Poprawki techniczne: Dostosowanie robota na podstawie testów, dopracowanie interakcji z klientami i możliwości personalizacji.
+		Finalizacja wyglądu: Ostateczny design robota, w tym personalizacja dla marek piwa.
+
+	4. Strategia Rynkowa
+		Model biznesowy: Opracowanie strategii sprzedaży lub wynajmu robota oraz współpracy z markami piwa.
+		Marketing: Kampanie promocyjne, pokazy na targach i współpraca z lokalami oraz influencerami.
+
+	5. Wdrożenie i Wsparcie
+		Premiera na rynku: Wprowadzenie robota w wybranych lokalach pilotażowych.
+		Wsparcie techniczne: Serwisowanie, szkolenia i rozwój produktu na podstawie danych z rynku.
